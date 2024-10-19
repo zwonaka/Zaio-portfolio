@@ -11,7 +11,8 @@
  * Header
  */
  .banner-wrap {
-  background-image: url(./assets/banner4.jpeg.jpg);
+  background-image: url(./assets/photo_2024-10-19_17-33-52.jpg);
+ /* background-image: url(./assets/banner4.jpeg.jpg); */
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
